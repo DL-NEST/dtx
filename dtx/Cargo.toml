@@ -1,0 +1,16 @@
+[package]
+name = "dtx"
+version = "0.1.0"
+rust-version = "1.74.0"
+description = "service integration"
+keywords = ["http"]
+license = "MIT"
+readme = "README.md"
+authors = ["dlnest <dlnestmit@gamil.com>"]
+homepage = ""
+repository = "https://github.com/DL-NEST/dtx.git"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
